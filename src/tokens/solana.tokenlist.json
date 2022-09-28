@@ -49078,6 +49078,32 @@
     },
     {
       "chainId": 101,
+      "address": "DoT6YMuZ3trvZG2SkxLykykhqFpkuDM1fJ9KdJ9HQffM",
+      "symbol": "DOT",
+      "name": "DOT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DoT6YMuZ3trvZG2SkxLykykhqFpkuDM1fJ9KdJ9HQffM/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/XhvmdVeqys",
+        "twitter": "https://twitter.com/thre3art",
+        "website": "https://thre3.art"
+      }
+    },  
+    {
+      "chainId": 101,
+      "address": "T3WFNdzoN1fvvh3M8esLHAVa5jiUZUwzLYbRxUpBzwq",
+      "symbol": "T3W",
+      "name": "Three Whitelist",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/T3WFNdzoN1fvvh3M8esLHAVa5jiUZUwzLYbRxUpBzwq/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/XhvmdVeqys",
+        "twitter": "https://twitter.com/thre3art",
+        "website": "https://thre3.art"
+      }
+    },      
+    {
+      "chainId": 101,
       "address": "A2JPQDuPC3f2sv31zxgaXz2HPEEWVTmpPmBPJnMMHLaw",
       "symbol": "AMPL",
       "name": "AMPOLO Coin",
